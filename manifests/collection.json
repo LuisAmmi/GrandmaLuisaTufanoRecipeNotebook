@@ -1,0 +1,13 @@
+{
+  "id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in LuisAmmi/GrandmaLuisaTufanoRecipeNotebook project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json",
+    "label" : "Grandma Luisa Tufano recipe notebook"
+  } ]
+}
