@@ -1185,7 +1185,7 @@
   }, {
     "@id" : "http://3f9b3dda-f7cc-4f63-ac18-e56d63c5bc4f",
     "@type" : "sc:Range",
-    "label" : "Ricetta della cioccolata fondente",
+    "label" : "Precotti cannelloni",
     "canvases" : [ "http://3f9b3dda-f7cc-4f63-ac18-e56d63c5bc4f" ]
   }, {
     "@id" : "http://f9568e5a-abeb-4492-a757-2b3752c87b4d",
