@@ -1,0 +1,43 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "process",
+      "@type" : "oa:Tag",
+      "chars" : "process"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "la densit&agrave; voluta (circa 10 minuti)\n<u style=\"font-size: medium;\"><span style=\"font-size: 10.5pt; font-family: Verdana, sans-serif;\">Preparazione&nbsp;Tagliare in due&nbsp;\nla torta, bagnare le due parti\ncol vermouth bianco, riempirla\ndi crema che deve essere spal-\nmata anche sopra -",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>la densit&agrave; voluta (circa 10 minuti)</p>\n<p><u style=\"font-size: medium;\"><span style=\"font-size: 10.5pt; font-family: Verdana, sans-serif;\">Preparazione</span></u>&nbsp;Tagliare in due&nbsp;</p>\n<p>la torta, bagnare le due parti</p>\n<p>col vermouth bianco, riempirla</p>\n<p>di crema che deve essere spal-</p>\n<p>mata anche sopra -</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-25T08:40:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653468045219",
+    "dcterms:modified" : "2022-05-25T08:40:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=85,66,1505,969"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1589.30485,1034.95727h-752.3112v0h-752.3112v-484.49654v-484.49654h752.3112h752.3112v484.49654z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_92172e4f-2b51-4ce2-be94-b85bc452439c\" fill-opacity=\"0.24\" fill=\"#c9a769\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://465953df-616b-4551-b896-afd0f1ec8755"
+    } ]
+  } ],
+  "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_14v_ann.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
