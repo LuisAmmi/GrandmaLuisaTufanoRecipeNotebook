@@ -1,0 +1,117 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "process",
+      "@type" : "oa:Tag",
+      "chars" : "process"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Si mette a bollire l'acqua con la\nsugna (o burro) e un pizzico di sale.\nQuando questa bolle ci si butta tutta\ndi un colpo la farina si mescola\ncontrinuamente per evitare il formar-\nsi dei granuli. Si fa dare un\nbollo alla farina e quando e dive-\nnuta come una palla. Si mette a&nbsp;\nraffreddare. Quando &egrave; fredda si\nrompono 20 uova (regolandosi\n*(con) la pasta). Si deve lavorare bene\n*(la) pasta poi si mette nella siringa\nun cucchiaio e si fa una",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Si mette a bollire l'acqua con la</p>\n<p>sugna (o burro) e un pizzico di sale.</p>\n<p>Quando questa bolle ci si butta tutta</p>\n<p>di un colpo la farina si mescola</p>\n<p>contrinuamente per evitare il formar-</p>\n<p>si dei granuli. Si fa dare un</p>\n<p>bollo alla farina e quando e dive-</p>\n<p>nuta come una palla. Si mette a&nbsp;</p>\n<p>raffreddare. Quando &egrave; fredda si</p>\n<p>rompono 20 uova (regolandosi</p>\n<p>*(con) la pasta). Si deve lavorare bene</p>\n<p>*(la) pasta poi si mette nella siringa</p>\n<p>un cucchiaio e si fa una</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-25T08:59:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653469143469",
+    "dcterms:modified" : "2022-05-25T08:59:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=255,901,1355,1298"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M292.40645,901.4479l658.88928,19.44555v0l658.88928,19.44555l-18.58069,629.58461l-18.58069,629.58461l-658.88928,-19.44555l-658.88928,-19.44555l18.58069,-629.58461z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:1.6904575560830761,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_af4cc27d-73e8-4adc-9bc2-59ff8cc6cda7\" fill-opacity=\"0.24\" fill=\"#6fabb6\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bac825d1-fb38-4335-af0a-cac6263d5a12"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ingredeinti:\n1 litro di acqua\n200 grammi di sugna (o burro)\n1 kg di farina\n20&nbsp;uova (regolandosi)\nun pizzico di sale.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ingredeinti:</p>\n<p>1 litro di acqua</p>\n<p>200 grammi di sugna (o burro)</p>\n<p>1 kg di farina</p>\n<p>20&nbsp;uova (regolandosi)</p>\n<p>un pizzico di sale.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "ingredients",
+      "@type" : "oa:Tag",
+      "chars" : "ingredients"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-05-25T08:55:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653468925626",
+    "dcterms:modified" : "2022-05-25T08:59:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=204,172,1070,632"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M261.04949,172.17201l506.63878,55.38692v0l506.63878,55.38692l-28.5081,260.77111l-28.5081,260.77111l-506.63878,-55.38692l-506.63878,-55.38692l28.5081,-260.77111z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:6.238930580597141,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,1],&quot;editable&quot;:true}\" id=\"rectangle_7c201ee3-8052-4007-8a77-a5a28ddbe061\" fill-opacity=\"0.24\" fill=\"#6fabb6\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"17.59045\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bac825d1-fb38-4335-af0a-cac6263d5a12"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "recipe name",
+      "@type" : "oa:Tag",
+      "chars" : "recipe name"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ricetta delle zeppole",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ricetta delle zeppole</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-25T08:54:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653468843981",
+    "dcterms:modified" : "2022-05-25T08:54:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=705,140,728,215"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M718.32744,139.57018l357.34696,30.80851v0l357.34696,30.80851l-6.63334,76.93989l-6.63334,76.93989l-357.34696,-30.80851l-357.34696,-30.80851l6.63334,-76.93989z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:4.927546178274634,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e87cecc9-5525-4404-bca8-cbe8efd9bef0\" fill-opacity=\"0.24\" fill=\"#6fabb6\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bac825d1-fb38-4335-af0a-cac6263d5a12"
+    } ]
+  } ],
+  "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_ls1r_ann.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
