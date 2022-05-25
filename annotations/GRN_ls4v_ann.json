@@ -1,0 +1,98 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "3 uova\n1 e 1/2 bicchiere d'acqua\n150g farina\nsale-\n&nbsp;\nuova e acqua",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>3 uova</p>\n<p>1 e 1/2 bicchiere d'acqua</p>\n<p>150g farina</p>\n<p>sale-</p>\n<p>&nbsp;</p>\n<p>uova e acqua</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "ingredients",
+      "@type" : "oa:Tag",
+      "chars" : "ingredients"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-05-25T09:19:37",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653470377721",
+    "dcterms:modified" : "2022-05-25T09:19:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=622,158,858,789"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M622.34921,157.5873h428.98413v0h428.98413v394.52778v394.52778h-428.98413h-428.98413v-394.52778z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,1],&quot;editable&quot;:true}\" id=\"rectangle_cd3aa4b8-af12-4afa-8ec9-4e334fdcabd8\" fill-opacity=\"0.21\" fill=\"#c4a06b\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"21.7619\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4c8380da-2447-428e-9c6d-0bd7ec83e3d7"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1043,147,2,2"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1043.07937,146.70635h1v0h1v1v1h-1h-1v-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,1],&quot;editable&quot;:true}\" id=\"rectangle_8768ace8-b8b1-4cfb-b0ef-6350fd72d64d\" fill-opacity=\"0.21\" fill=\"#c4a06b\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"21.7619\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4c8380da-2447-428e-9c6d-0bd7ec83e3d7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "recipe name",
+      "@type" : "oa:Tag",
+      "chars" : "recipe name"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Precotti cannelloni",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Precotti cannelloni</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-25T09:18:58",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653470338339",
+    "dcterms:modified" : "2022-05-25T09:18:58",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=918,74,610,190"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M931.22688,74.39617l298.81273,29.09845v0l298.81273,29.09845l-6.42453,65.97364l-6.42453,65.97364l-298.81273,-29.09845l-298.81273,-29.09845l6.42453,-65.97364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:5.5619381713299045,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a652a3f3-947a-40a7-9987-c41f82664350\" fill-opacity=\"0.21\" fill=\"#c4a06b\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4c8380da-2447-428e-9c6d-0bd7ec83e3d7"
+    } ]
+  } ],
+  "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_ls4v_ann.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
