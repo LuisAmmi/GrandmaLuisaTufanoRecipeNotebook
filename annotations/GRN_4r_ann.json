@@ -1,0 +1,43 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "process",
+      "@type" : "oa:Tag",
+      "chars" : "process"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">un cordone che racchiuda il\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">ripieno.\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">in una terrina mescolare\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">insieme col cucchiaio di legno,\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">la panna con lo zucchero, la\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">farina ed il tuorlo, amalgamando\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">bene tutti gli ingredienti fra loro\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Rovesciare questo composto sulle\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">pere e porre la teglia nel forno\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">caldo, lasciando cuocere per circa\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">30 minuti. Sfornare la crostata\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">nel vassoio da portata non\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">appena sar&agrave; fredda _",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">un cordone che racchiuda il</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">ripieno.</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">in una terrina mescolare</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">insieme col cucchiaio di legno,</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">la panna con lo zucchero, la</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">farina ed il tuorlo, amalgamando</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">bene tutti gli ingredienti fra loro</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Rovesciare questo composto sulle</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">pere e porre la teglia nel forno</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">caldo, lasciando cuocere per circa</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">30 minuti. Sfornare la crostata</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">nel vassoio da portata non</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">appena sar&agrave; fredda _</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-24T14:30:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653402635026",
+    "dcterms:modified" : "2022-05-24T14:30:35",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=230,159,1477,1443"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M230.44226,158.95266h738.47979v0h738.47979v721.3291v721.3291h-738.47979h-738.47979v-721.3291z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c8728da6-83c0-4c74-afc8-78bef7283466\" fill-opacity=\"0.22\" fill=\"#8f6138\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1849ef13-e128-4340-99bb-48ded1a11d89"
+    } ]
+  } ],
+  "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_4r_ann.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
