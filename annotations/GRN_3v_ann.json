@@ -1,0 +1,154 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "ingredients",
+      "@type" : "oa:Tag",
+      "chars" : "ingredients"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">una confezione di pasta frolla surgelata\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">farina per stendere la pasta\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">tre grosse pere di giusta maturazione\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">&frac14; di panna, 1 cucchiaio di\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">zucchero, 1 cucchiaio di farina\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">1 tuorlo _",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">una confezione di pasta frolla surgelata</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">farina per stendere la pasta</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">tre grosse pere di giusta maturazione</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">&frac14; di panna, 1 cucchiaio di</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">zucchero, 1 cucchiaio di farina</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">1 tuorlo _</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-24T14:29:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653402584343",
+    "dcterms:modified" : "2022-05-24T14:29:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=174,359,1406,662"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M173.89376,359.2729h702.85912v0h702.85912v330.82102v330.82102h-702.85912h-702.85912v-330.82102z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_dafd2135-9f38-40ec-bdac-46ee27c3ecff\" fill-opacity=\"0.22\" fill=\"#8f6138\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c4c4269b-03b5-460e-8746-05d34aea351b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "process",
+      "@type" : "oa:Tag",
+      "chars" : "process"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Scongelare la pasta frolla.\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Allorch&eacute; sar&agrave; pronta, stenderla\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">sulla spianatoia infarinata\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">in un disco un po&rsquo; pi&ugrave; grande\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">della teglia in cui si cuocer&agrave; la crostata\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Adagiare la torta nello stampo\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">sollevarla verso i bordi _\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Pulire le pere, ridurle in fettine\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">stenderle sul disco di pasta frolla\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">e ripiegare tutt&rsquo;intorno la pasta\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">in eccedenza, formando",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Scongelare la pasta frolla.</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Allorch&eacute; sar&agrave; pronta, stenderla</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">sulla spianatoia infarinata</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">in un disco un po&rsquo; pi&ugrave; grande</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">della teglia in cui si cuocer&agrave; la crostata</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Adagiare la torta nello stampo</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">sollevarla verso i bordi _</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Pulire le pere, ridurle in fettine</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">stenderle sul disco di pasta frolla</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">e ripiegare tutt&rsquo;intorno la pasta</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">in eccedenza, formando</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-24T14:30:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653402604788",
+    "dcterms:modified" : "2022-05-24T14:30:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=153,1061,1408,1160"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M152.78522,1061.13203h704.17841v0h704.17841v580.1657v580.1657h-704.17841h-704.17841v-580.1657z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c5a3012f-5cde-4b22-b5de-57b416a38be0\" fill-opacity=\"0.22\" fill=\"#8f6138\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c4c4269b-03b5-460e-8746-05d34aea351b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "recipe name",
+      "@type" : "oa:Tag",
+      "chars" : "recipe name"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Crostata alle pere -",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Crostata alle pere -</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-24T14:29:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653402554081",
+    "dcterms:modified" : "2022-05-24T14:29:14",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=555,125,783,126"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M554.98614,124.65127h391.50808v0h391.50808v63.00635v63.00635h-391.50808h-391.50808v-63.00635z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_67a97957-5315-468c-8dff-77fadba0e5e9\" fill-opacity=\"0.22\" fill=\"#8f6138\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c4c4269b-03b5-460e-8746-05d34aea351b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "quantity",
+      "@type" : "oa:Tag",
+      "chars" : "quantity"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "4-6 persone -",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>4-6 persone -</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-24T14:29:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653402571613",
+    "dcterms:modified" : "2022-05-24T14:29:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=195,241,553,97"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M195.00231,240.53734h276.73037v0h276.73037v48.49423v48.49423h-276.73037h-276.73037v-48.49423z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0258ec4f-ba79-4057-86c5-acff162c9ee9\" fill-opacity=\"0.22\" fill=\"#8f6138\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c4c4269b-03b5-460e-8746-05d34aea351b"
+    } ]
+  } ],
+  "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_3v_ann.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
