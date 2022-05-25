@@ -1,0 +1,154 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "comment",
+      "@type" : "oa:Tag",
+      "chars" : "comment"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "This pencil overlapping is done later,&nbsp;probably due to the illegibility of the original text",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This pencil overlapping is done later,&nbsp;probably due to the illegibility of the original text</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-25T08:30:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653467403743",
+    "dcterms:modified" : "2022-05-25T08:30:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=133,524,191,321"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M132.70635,523.9127h95.30159v0h95.30159v160.5873v160.5873h-95.30159h-95.30159v-160.5873z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_10e914c6-5d04-487c-9213-f42346c05f30\" fill-opacity=\"0.24\" fill=\"#6fabb6\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://00933d39-15e5-48ad-a562-c4424de3c9f9"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "ingredients",
+      "@type" : "oa:Tag",
+      "chars" : "ingredients"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">1kg di mele\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">uova col bianco\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">150g di zucchero\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">250 g. di farina\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">50g. di burro_\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">1 busta di lievito &ldquo;Pane degli angeli&rdquo;\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">1 bicchiere medio di latte_\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">un pizzico di sale_",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">1kg di mele</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">uova col bianco</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">150g di zucchero</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">250 g. di farina</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">50g. di burro_</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">1 busta di lievito &ldquo;Pane degli angeli&rdquo;</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">1 bicchiere medio di latte_</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">un pizzico di sale_</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-25T08:17:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653466676431",
+    "dcterms:modified" : "2022-05-25T08:17:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=169,306,1453,1115"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M168.97619,306.29365h726.39683v0h726.39683v557.74206v557.74206h-726.39683h-726.39683v-557.74206z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9edb7148-7141-497b-b853-c7faeccd0102\" fill-opacity=\"0.28\" fill=\"#c4925c\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://00933d39-15e5-48ad-a562-c4424de3c9f9"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Modo -&nbsp;\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Sbattiamo le uova insieme a\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">pizzico di sale. Vi si aggiungere\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">il burro liquefatto e lo zucchero.\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Si sbatte composto molto bene\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">e si aggiunge la farina",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Modo -&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Sbattiamo le uova insieme a</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">pizzico di sale. Vi si aggiungere</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">il burro liquefatto e lo zucchero.</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Si sbatte composto molto bene</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">e si aggiunge la farina</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "process",
+      "@type" : "oa:Tag",
+      "chars" : "process"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-05-25T08:31:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653467478724",
+    "dcterms:modified" : "2022-05-25T08:31:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=162,1445,1456,691"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M162.13267,1445.40121h728.07211v0h728.07211v345.47973v345.47973h-728.07211h-728.07211v-345.47973z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,1],&quot;editable&quot;:true}\" id=\"rectangle_ccbcc22a-7e02-452d-974e-0f99751ffa2f\" fill-opacity=\"0.24\" fill=\"#c9a769\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"17.59045\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://00933d39-15e5-48ad-a562-c4424de3c9f9"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "recipe name",
+      "@type" : "oa:Tag",
+      "chars" : "recipe name"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Torta di mele",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Torta di mele</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-25T08:18:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653466729787",
+    "dcterms:modified" : "2022-05-25T08:18:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=638,114,604,172"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M638.35714,114.06349h302.03968v0h302.03968v86.23413v86.23413h-302.03968h-302.03968v-86.23413z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_cf15be24-1376-4d07-b361-a60a370174cf\" fill-opacity=\"0.28\" fill=\"#c4925c\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://00933d39-15e5-48ad-a562-c4424de3c9f9"
+    } ]
+  } ],
+  "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_12v_ann.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
