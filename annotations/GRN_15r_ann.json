@@ -1,0 +1,117 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "process",
+      "@type" : "oa:Tag",
+      "chars" : "process"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mettere in una pentola il latte,\nlo zucchero e la cioccolata, poi\nsi mette sul fuoco lento e&nbsp;\ngirare per far sciogliere bene\nil cioccolato. Si unisce sangu(e)*\ne farina in una pentola, si\npassa per il passatutto per far\nsciogliere bene la farina. Rffred-\ndata la cioccol(ata)* e il latte, si rimette\nnel fuoco lento e si fa cuocere come in\nesempio -&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mettere in una pentola il latte,</p>\n<p>lo zucchero e la cioccolata, poi</p>\n<p>si mette sul fuoco lento e&nbsp;</p>\n<p>girare per far sciogliere bene</p>\n<p>il cioccolato. Si unisce sangu(e)*</p>\n<p>e farina in una pentola, si</p>\n<p>passa per il passatutto per far</p>\n<p>sciogliere bene la farina. Rffred-</p>\n<p>data la cioccol(ata)* e il latte, si rimette</p>\n<p>nel fuoco lento e si fa cuocere come in</p>\n<p>esempio -&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-25T08:51:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653468661263",
+    "dcterms:modified" : "2022-05-25T08:51:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=278,929,1474,1295"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M277.93649,929.41455h737.16051v0h737.16051v647.44919v647.44919h-737.16051h-737.16051v-647.44919z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_73fdc65b-1533-409d-bc7a-c1072e403166\" fill-opacity=\"0.24\" fill=\"#c9a769\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://19556a5b-470f-449b-8f6e-1abc9da00502"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "recipe name",
+      "@type" : "oa:Tag",
+      "chars" : "recipe name"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sanguinaccio",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Sanguinaccio</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-25T08:41:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653468068561",
+    "dcterms:modified" : "2022-05-25T08:41:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=655,138,775,142"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M655.25173,137.84411h387.55023v0h387.55023v70.92206v70.92206h-387.55023h-387.55023v-70.92206z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f6259085-efc1-4e53-9dde-15a2de760bd3\" fill-opacity=\"0.24\" fill=\"#c9a769\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://19556a5b-470f-449b-8f6e-1abc9da00502"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "ingredients",
+      "@type" : "oa:Tag",
+      "chars" : "ingredients"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "1 l di sangue\n1 l di latte\n1 Kg di zucchero\n1/2 Kg di cioccolato fondente\n300g. di farina",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>1 l di sangue</p>\n<p>1 l di latte</p>\n<p>1 Kg di zucchero</p>\n<p>1/2 Kg di cioccolato fondente</p>\n<p>300g. di farina</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-25T08:42:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653468123087",
+    "dcterms:modified" : "2022-05-25T08:42:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=257,262,1350,601"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M256.82794,261.85681h675.15416v0h675.15416v300.47748v300.47748h-675.15416h-675.15416v-300.47748z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_08a36d1b-6660-4a99-86bd-b48ed4cbdc98\" fill-opacity=\"0.24\" fill=\"#c9a769\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://19556a5b-470f-449b-8f6e-1abc9da00502"
+    } ]
+  } ],
+  "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_15r_ann.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
