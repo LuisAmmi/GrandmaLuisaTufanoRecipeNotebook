@@ -3,6 +3,11 @@
   "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json",
   "@type" : "sc:Manifest",
   "label" : "Grandma Luisa Tufano recipe notebook",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/67541950/manifests/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "A recipe notebook dating back to the 70s, handwritten by my grandma, Luisa Tufano",
@@ -42,7 +47,11 @@
         },
         "on" : "http://1d34269c-5452-49df-9183-98e9b4ecdf11"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_index_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://cfe47c05-39e4-4610-be00-29c6854c3887",
       "@type" : "sc:Canvas",
@@ -68,7 +77,11 @@
         },
         "on" : "http://cfe47c05-39e4-4610-be00-29c6854c3887"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_1r_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://dd93bafb-a8a6-41bd-b022-b8db90db2f56",
       "@type" : "sc:Canvas",
@@ -94,7 +107,11 @@
         },
         "on" : "http://dd93bafb-a8a6-41bd-b022-b8db90db2f56"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_1v_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://d8f299af-74df-41fe-a5b5-9d9ca08510e5",
       "@type" : "sc:Canvas",
@@ -120,7 +137,11 @@
         },
         "on" : "http://d8f299af-74df-41fe-a5b5-9d9ca08510e5"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_2r_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://bc12d4d7-641a-4ab1-a284-530f900edb2d",
       "@type" : "sc:Canvas",
@@ -146,7 +167,11 @@
         },
         "on" : "http://bc12d4d7-641a-4ab1-a284-530f900edb2d"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_2v_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://0f20c9b3-846c-43ea-8ff0-b330040a05e4",
       "@type" : "sc:Canvas",
@@ -172,7 +197,11 @@
         },
         "on" : "http://0f20c9b3-846c-43ea-8ff0-b330040a05e4"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_3r_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://c4c4269b-03b5-460e-8746-05d34aea351b",
       "@type" : "sc:Canvas",
@@ -198,7 +227,11 @@
         },
         "on" : "http://c4c4269b-03b5-460e-8746-05d34aea351b"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_3v_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://1849ef13-e128-4340-99bb-48ded1a11d89",
       "@type" : "sc:Canvas",
@@ -224,7 +257,11 @@
         },
         "on" : "http://1849ef13-e128-4340-99bb-48ded1a11d89"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_4r_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://ef08bed3-7875-47ba-aec9-9295644a01b7",
       "@type" : "sc:Canvas",
@@ -250,7 +287,11 @@
         },
         "on" : "http://ef08bed3-7875-47ba-aec9-9295644a01b7"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_4v_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://fac76306-a77c-4a05-b2ce-63abf512c3c4",
       "@type" : "sc:Canvas",
@@ -276,7 +317,11 @@
         },
         "on" : "http://fac76306-a77c-4a05-b2ce-63abf512c3c4"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_5r_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://2da29d74-75c3-47ce-8fc7-6953ec539f9c",
       "@type" : "sc:Canvas",
@@ -302,7 +347,11 @@
         },
         "on" : "http://2da29d74-75c3-47ce-8fc7-6953ec539f9c"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_5v_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://39089f2c-f76a-4db2-8f4a-34d01cc44122",
       "@type" : "sc:Canvas",
@@ -328,7 +377,11 @@
         },
         "on" : "http://39089f2c-f76a-4db2-8f4a-34d01cc44122"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_6r_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://d0d49289-8a54-4069-93e2-d1baef157efc",
       "@type" : "sc:Canvas",
@@ -354,7 +407,11 @@
         },
         "on" : "http://d0d49289-8a54-4069-93e2-d1baef157efc"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_6v_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://d0969158-c4d4-473b-a40b-e8fd5b24e58e",
       "@type" : "sc:Canvas",
@@ -380,7 +437,11 @@
         },
         "on" : "http://d0969158-c4d4-473b-a40b-e8fd5b24e58e"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_7r_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://cf67681c-2634-41aa-b76e-f9e9396bd154",
       "@type" : "sc:Canvas",
@@ -406,7 +467,11 @@
         },
         "on" : "http://cf67681c-2634-41aa-b76e-f9e9396bd154"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_7v_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://e34c3d65-834f-4c44-bae4-24ef487811c6",
       "@type" : "sc:Canvas",
@@ -432,7 +497,11 @@
         },
         "on" : "http://e34c3d65-834f-4c44-bae4-24ef487811c6"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_8r_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://12a75d2f-e694-4f20-9c3c-5e355a523b6a",
       "@type" : "sc:Canvas",
@@ -458,7 +527,11 @@
         },
         "on" : "http://12a75d2f-e694-4f20-9c3c-5e355a523b6a"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_8v_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://c17bf1da-cd2f-4756-9c9b-84208733801d",
       "@type" : "sc:Canvas",
@@ -484,7 +557,11 @@
         },
         "on" : "http://c17bf1da-cd2f-4756-9c9b-84208733801d"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_9r_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://614ff496-1384-4cc7-b08f-49a8a8d6232b",
       "@type" : "sc:Canvas",
@@ -510,7 +587,11 @@
         },
         "on" : "http://614ff496-1384-4cc7-b08f-49a8a8d6232b"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_9v_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://3f9b3dda-f7cc-4f63-ac18-e56d63c5bc4f",
       "@type" : "sc:Canvas",
@@ -536,7 +617,11 @@
         },
         "on" : "http://3f9b3dda-f7cc-4f63-ac18-e56d63c5bc4f"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_10r_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://f9568e5a-abeb-4492-a757-2b3752c87b4d",
       "@type" : "sc:Canvas",
@@ -562,7 +647,11 @@
         },
         "on" : "http://f9568e5a-abeb-4492-a757-2b3752c87b4d"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_10v_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://8473d592-33be-4644-80bf-4d3d344ada3f",
       "@type" : "sc:Canvas",
@@ -588,7 +677,11 @@
         },
         "on" : "http://8473d592-33be-4644-80bf-4d3d344ada3f"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_11r_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://8c07deb5-ce03-4f20-b8ac-2be64bba21c7",
       "@type" : "sc:Canvas",
@@ -614,7 +707,11 @@
         },
         "on" : "http://8c07deb5-ce03-4f20-b8ac-2be64bba21c7"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_11v_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://e8e461b3-d3ed-4686-b18e-17f7650eb14c",
       "@type" : "sc:Canvas",
@@ -640,7 +737,11 @@
         },
         "on" : "http://e8e461b3-d3ed-4686-b18e-17f7650eb14c"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_12r_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://00933d39-15e5-48ad-a562-c4424de3c9f9",
       "@type" : "sc:Canvas",
@@ -666,7 +767,11 @@
         },
         "on" : "http://00933d39-15e5-48ad-a562-c4424de3c9f9"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_12v_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://19553c8b-6e34-45e9-b520-71e14ae37711",
       "@type" : "sc:Canvas",
@@ -692,7 +797,11 @@
         },
         "on" : "http://19553c8b-6e34-45e9-b520-71e14ae37711"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_13r_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://88014f8f-416c-4b82-b6c2-223dccae8019",
       "@type" : "sc:Canvas",
@@ -718,7 +827,11 @@
         },
         "on" : "http://88014f8f-416c-4b82-b6c2-223dccae8019"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_13v_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://75405a18-12e2-4b12-9a4d-faae42c661e2",
       "@type" : "sc:Canvas",
@@ -744,7 +857,11 @@
         },
         "on" : "http://75405a18-12e2-4b12-9a4d-faae42c661e2"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_14r_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://465953df-616b-4551-b896-afd0f1ec8755",
       "@type" : "sc:Canvas",
@@ -770,7 +887,11 @@
         },
         "on" : "http://465953df-616b-4551-b896-afd0f1ec8755"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_14v_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://19556a5b-470f-449b-8f6e-1abc9da00502",
       "@type" : "sc:Canvas",
@@ -796,7 +917,11 @@
         },
         "on" : "http://19556a5b-470f-449b-8f6e-1abc9da00502"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_15r_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://bac825d1-fb38-4335-af0a-cac6263d5a12",
       "@type" : "sc:Canvas",
@@ -822,7 +947,11 @@
         },
         "on" : "http://bac825d1-fb38-4335-af0a-cac6263d5a12"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_ls1r_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://e9e9b3e2-1840-46a8-9350-eb7669b38c0a",
       "@type" : "sc:Canvas",
@@ -848,7 +977,11 @@
         },
         "on" : "http://e9e9b3e2-1840-46a8-9350-eb7669b38c0a"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_ls1v_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://62ab5f08-4e29-4fab-a4f3-bd3fb9e8141a",
       "@type" : "sc:Canvas",
@@ -900,7 +1033,11 @@
         },
         "on" : "http://5d8cba90-192e-4514-b596-860dfa8c48bb"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_ls3_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://f978341f-0ea7-4506-96a7-5893692478cd",
       "@type" : "sc:Canvas",
@@ -952,7 +1089,11 @@
         },
         "on" : "http://4c8380da-2447-428e-9c6d-0bd7ec83e3d7"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_ls4v_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://185e1560-98ed-4285-81b9-e521719860cd",
       "@type" : "sc:Canvas",
@@ -1108,7 +1249,11 @@
         },
         "on" : "http://e6b69130-56a3-4dbc-a0bd-6c4dbee9aa6d"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_ls9_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     }, {
       "@id" : "http://3c507cdf-9869-443b-8550-da4bdfad4aa2",
       "@type" : "sc:Canvas",
@@ -1134,7 +1279,11 @@
         },
         "on" : "http://3c507cdf-9869-443b-8550-da4bdfad4aa2"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_ls10_ann.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
     } ]
   } ],
   "structures" : [ {
