@@ -1,0 +1,154 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "process",
+      "@type" : "oa:Tag",
+      "chars" : "process"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "*(In una) zuppiera di amalgama zucchero e uova si\nci aggiunge poi la farina e poi un\npo' alla il latte freddo (senza bollire)\ne si gira sempre. Si versa tutto *(filtr)\nandolo attraverso un colino in un\nlino e si mette sul fuoco, girando\nsempre da un verso e lentamente\nuova cucchiaia di legno. Nella crema\naggiungere delle scorzette di limone *()\nsul fuoco",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>*(In una) zuppiera di amalgama zucchero e uova si</p>\n<p>ci aggiunge poi la farina e poi un</p>\n<p>po' alla il latte freddo (senza bollire)</p>\n<p>e si gira sempre. Si versa tutto *(filtr)</p>\n<p>andolo attraverso un colino in un</p>\n<p>lino e si mette sul fuoco, girando</p>\n<p>sempre da un verso e lentamente</p>\n<p>uova cucchiaia di legno. Nella crema</p>\n<p>aggiungere delle scorzette di limone *()</p>\n<p>sul fuoco</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-25T09:09:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653469773009",
+    "dcterms:modified" : "2022-05-25T09:09:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=166,1236,1442,1014"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M166.27965,1306.884l697.17015,-35.30412v0l697.17015,-35.30412l23.88245,471.61998l23.88245,471.61998l-697.17015,35.30412l-697.17015,35.30412l-23.88245,-471.61998z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:-2.898934794554956,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_421f84af-b677-4d14-b756-c1a6dbde8b49\" fill-opacity=\"0.24\" fill=\"#6fabb6\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e9e9b3e2-1840-46a8-9350-eb7669b38c0a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "forma tonda.\nMettere molto olio nella padella e\nstare attenti che quando si ci *\ntano<span style=\"font-size: 10.5pt; font-family: Verdana, sans-serif;\"> te&nbsp;l'olio sia bollen",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>forma tonda.</p>\n<p>Mettere molto olio nella padella e</p>\n<p>stare attenti che quando si ci *</p>\n<p><s>tano</s><span style=\"font-size: 10.5pt; font-family: Verdana, sans-serif;\"> <sup>te</sup></span>&nbsp;l'olio sia bollen</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "process",
+      "@type" : "oa:Tag",
+      "chars" : "process"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-05-25T09:01:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653469272923",
+    "dcterms:modified" : "2022-05-25T09:01:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=152,214,1478,443"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M151.98613,310.19425l727.66594,-47.96109v0l727.66594,-47.96109l11.43223,173.44987l11.43223,173.44987l-727.66594,47.96109l-727.66594,47.96109l-11.43223,-173.44987z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:-3.7709602048661286,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,1],&quot;editable&quot;:true}\" id=\"rectangle_117bc2d9-84ad-4f5a-9143-cd2b5a40b8e2\" fill-opacity=\"0.24\" fill=\"#6fabb6\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"15.83141\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e9e9b3e2-1840-46a8-9350-eb7669b38c0a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "ingredients",
+      "@type" : "oa:Tag",
+      "chars" : "ingredients"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "1 litro di latte\n8 uova\n8 cucchiaiai rasi di farina\n8 cucchiai di zucchero",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>1 litro di latte</p>\n<p>8 uova</p>\n<p>8 cucchiaiai rasi di farina</p>\n<p>8 cucchiai di zucchero</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-25T09:02:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653469373725",
+    "dcterms:modified" : "2022-05-25T09:02:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=251,842,1129,413"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M251.25935,921.12551l552.36968,-39.49749v0l552.36968,-39.49749l11.94671,167.07396l11.94671,167.07396l-552.36968,39.49749l-552.36968,39.49749l-11.94671,-167.07396z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:-4.090004167463967,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_80e83ac1-61fa-413c-b5df-b852e4e0e6f9\" fill-opacity=\"0.24\" fill=\"#6fabb6\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e9e9b3e2-1840-46a8-9350-eb7669b38c0a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "recipe name",
+      "@type" : "oa:Tag",
+      "chars" : "recipe name"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Crema",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Crema</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-25T09:03:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653469396448",
+    "dcterms:modified" : "2022-05-25T09:03:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=240,762,313,148"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M239.85681,780.9331l152.40913,-9.70268v0l152.40913,-9.70268l4.08683,64.19568l4.08683,64.19568l-152.40913,9.70268l-152.40913,9.70268l-4.08683,-64.19568z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:-3.6426512926825207,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d6d4fe4d-f315-410b-abc9-8abcb05d2eda\" fill-opacity=\"0.24\" fill=\"#6fabb6\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e9e9b3e2-1840-46a8-9350-eb7669b38c0a"
+    } ]
+  } ],
+  "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_ls1v_ann.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
