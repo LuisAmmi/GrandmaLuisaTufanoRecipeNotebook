@@ -1,0 +1,117 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "ingredients",
+      "@type" : "oa:Tag",
+      "chars" : "ingredients"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Ingredienti per 4-6 persone\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">350g di farina\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">30g di zucchero\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">30g di burro\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">vino bianco\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Per il ripieno:\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">400g di ricotta\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">200g di zucchero vanigliato\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">una confezione di 100g di frutta candita\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">mista tagliata a dadini\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">50g di cioccolato amaro in tavoletta\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">E inoltre: burro per ungere un\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">albume, olio per friggere.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Ingredienti per 4-6 persone</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">350g di farina</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">30g di zucchero</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">30g di burro</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">vino bianco</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Per il ripieno:</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">400g di ricotta</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">200g di zucchero vanigliato</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">una confezione di 100g di frutta candita</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">mista tagliata a dadini</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">50g di cioccolato amaro in tavoletta</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">E inoltre: burro per ungere un</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">albume, olio per friggere.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-24T15:27:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653406031933",
+    "dcterms:modified" : "2022-05-24T15:27:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=294,613,1424,1503"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M293.7679,612.78637h712.09411v0h712.09411v751.67263v751.67263h-712.09411h-712.09411v-751.67263z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6222953b-ba5d-4876-8c58-6b90796b42b0\" fill-opacity=\"0.3\" fill=\"#37788b\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c17bf1da-cd2f-4756-9c9b-84208733801d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "process",
+      "@type" : "oa:Tag",
+      "chars" : "process"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Tenete la torta in frigorifero, fino al momento\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">di servirla.\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Ca",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">Tenete la torta in frigorifero, fino al momento</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\">di servirla.</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;\"><s>Ca</s></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-24T15:26:46",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653406006851",
+    "dcterms:modified" : "2022-05-24T15:26:46",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=267,106,1485,334"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M267.38222,106.18129h742.56178v0h742.56178v167.22979v167.22979h-742.56178h-742.56178v-167.22979z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6f29b38c-834c-46a5-aa3f-17f49b52beb0\" fill-opacity=\"0.3\" fill=\"#37788b\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c17bf1da-cd2f-4756-9c9b-84208733801d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "recipe name",
+      "@type" : "oa:Tag",
+      "chars" : "recipe name"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cannoli alla siciliana",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Cannoli alla siciliana</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/67541950",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-24T15:27:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1653406050167",
+    "dcterms:modified" : "2022-05-24T15:27:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=496,510,947,108"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M495.79908,509.77367h473.3037v0h473.3037v53.77136v53.77136h-473.3037h-473.3037v-53.77136z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f11256f3-cf3e-46ec-a7a5-6b17a46be85d\" fill-opacity=\"0.3\" fill=\"#37788b\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c17bf1da-cd2f-4756-9c9b-84208733801d"
+    } ]
+  } ],
+  "@id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_9r_ann.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
