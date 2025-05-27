@@ -1,0 +1,1415 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "id" : "https://LuisAmmi.github.io/GrandmaLuisaTufanoRecipeNotebook/manifests/manifest.json",
+  "type" : "sc:Manifest",
+  "label" : "Grandma Luisa Tufano recipe notebook",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "id" : "https://dev.gdmrdigital.com/search-api/1245635613/67541950/manifests/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A recipe notebook dating back to the 70s, handwritten by my grandma, Luisa Tufano",
+    "language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Rosa Cianciulli family private archive",
+  "sequences" : [ {
+    "id" : "http://4ada9537-5e65-439d-af6f-885f811585f1",
+    "type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "language" : "en"
+    } ],
+    "canvases" : [ {
+      "id" : "http://1d34269c-5452-49df-9183-98e9b4ecdf11",
+      "type" : "sc:Canvas",
+      "label" : "GRN_index",
+      "height" : 2306,
+      "width" : 1803,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://d7d6601e-cff0-43fa-871c-bbdea26254fb",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/0_20220519_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/0_20220519_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2306,
+          "width" : 1803
+        },
+        "on" : "http://1d34269c-5452-49df-9183-98e9b4ecdf11"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_index_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://cfe47c05-39e4-4610-be00-29c6854c3887",
+      "type" : "sc:Canvas",
+      "label" : "GRN_1r",
+      "height" : 2306,
+      "width" : 1803,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://e9833096-10c3-4d9c-94fa-a7d913fa7fb0",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/1_20220519_20220519_1653/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/1_20220519_20220519_1653",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2306,
+          "width" : 1803
+        },
+        "on" : "http://cfe47c05-39e4-4610-be00-29c6854c3887"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_1r_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://dd93bafb-a8a6-41bd-b022-b8db90db2f56",
+      "type" : "sc:Canvas",
+      "label" : "GRN_1v",
+      "height" : 2306,
+      "width" : 1803,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://5f3d5ed5-6ea1-4116-956d-ceb8ba8cf2e0",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/2_20220519_20220519_1655/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/2_20220519_20220519_1655",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2306,
+          "width" : 1803
+        },
+        "on" : "http://dd93bafb-a8a6-41bd-b022-b8db90db2f56"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_1v_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://d8f299af-74df-41fe-a5b5-9d9ca08510e5",
+      "type" : "sc:Canvas",
+      "label" : "GRN_2r",
+      "height" : 2303,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://d7ad2951-a7ee-4be0-9ad0-8a27c8fba9cd",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/3_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/3_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2303,
+          "width" : 1800
+        },
+        "on" : "http://d8f299af-74df-41fe-a5b5-9d9ca08510e5"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_2r_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://bc12d4d7-641a-4ab1-a284-530f900edb2d",
+      "type" : "sc:Canvas",
+      "label" : "GRN_2v",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://3dfa28da-76e6-41c2-a355-f1285f66fd67",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/4_20220519_202205/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/4_20220519_202205",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://bc12d4d7-641a-4ab1-a284-530f900edb2d"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_2v_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://0f20c9b3-846c-43ea-8ff0-b330040a05e4",
+      "type" : "sc:Canvas",
+      "label" : "GRN_3r",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://0dcefa28-02b1-4a22-81ce-326045129ac0",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/5_20220519_202205/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/5_20220519_202205",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://0f20c9b3-846c-43ea-8ff0-b330040a05e4"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_3r_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://c4c4269b-03b5-460e-8746-05d34aea351b",
+      "type" : "sc:Canvas",
+      "label" : "GRN_3v",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://ed9d50f9-52b1-4718-ac74-9211072d5b9a",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/6_20220519_202205/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/6_20220519_202205",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://c4c4269b-03b5-460e-8746-05d34aea351b"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_3v_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://1849ef13-e128-4340-99bb-48ded1a11d89",
+      "type" : "sc:Canvas",
+      "label" : "GRN_4r",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://9fe0b028-8e0a-4cee-8ae4-14355be26f51",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/7_20220519_20220519_1705/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/7_20220519_20220519_1705",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://1849ef13-e128-4340-99bb-48ded1a11d89"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_4r_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://ef08bed3-7875-47ba-aec9-9295644a01b7",
+      "type" : "sc:Canvas",
+      "label" : "GRN_4v",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://d189247f-43f1-485b-a4b1-79de882a1e5d",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/8_20220519_202205/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/8_20220519_202205",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://ef08bed3-7875-47ba-aec9-9295644a01b7"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_4v_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://fac76306-a77c-4a05-b2ce-63abf512c3c4",
+      "type" : "sc:Canvas",
+      "label" : "GRN_5r",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://f5707ef6-c759-4983-a97e-ca8de6ee9350",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/9_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/9_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://fac76306-a77c-4a05-b2ce-63abf512c3c4"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_5r_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://2da29d74-75c3-47ce-8fc7-6953ec539f9c",
+      "type" : "sc:Canvas",
+      "label" : "GRN_5v",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://50ed17d9-7941-46a9-a259-b375f14c2cab",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/10_20220519_202205/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/10_20220519_202205",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://2da29d74-75c3-47ce-8fc7-6953ec539f9c"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_5v_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://39089f2c-f76a-4db2-8f4a-34d01cc44122",
+      "type" : "sc:Canvas",
+      "label" : "GRN_6r",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://4e7e0a27-ea80-4065-be8e-fa44595a8630",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/11_20220519_20220519_1721/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/11_20220519_20220519_1721",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://39089f2c-f76a-4db2-8f4a-34d01cc44122"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_6r_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://d0d49289-8a54-4069-93e2-d1baef157efc",
+      "type" : "sc:Canvas",
+      "label" : "GRN_6v",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://36bd239e-cba8-487c-bafa-171e291737df",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/12_20220519_20220519_1723/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/12_20220519_20220519_1723",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://d0d49289-8a54-4069-93e2-d1baef157efc"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_6v_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://d0969158-c4d4-473b-a40b-e8fd5b24e58e",
+      "type" : "sc:Canvas",
+      "label" : "GRN_7r",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://468d5eb1-88c6-4a97-a9b4-93e2a335a655",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/13_20220519_20220519_1725/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/13_20220519_20220519_1725",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://d0969158-c4d4-473b-a40b-e8fd5b24e58e"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_7r_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://cf67681c-2634-41aa-b76e-f9e9396bd154",
+      "type" : "sc:Canvas",
+      "label" : "GRN_7v",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://206b9da3-b17c-4717-a07b-406d63f12a91",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/14_20220519_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/14_20220519_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://cf67681c-2634-41aa-b76e-f9e9396bd154"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_7v_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://e34c3d65-834f-4c44-bae4-24ef487811c6",
+      "type" : "sc:Canvas",
+      "label" : "GRN_8r",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://def35917-cc9f-40c9-8aaa-c1e0cc726616",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/15_20220519_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/15_20220519_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://e34c3d65-834f-4c44-bae4-24ef487811c6"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_8r_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://12a75d2f-e694-4f20-9c3c-5e355a523b6a",
+      "type" : "sc:Canvas",
+      "label" : "GRN_8v",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://cc59291c-92db-4d30-9998-e67cffe3c17e",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/16_20220519_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/16_20220519_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://12a75d2f-e694-4f20-9c3c-5e355a523b6a"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_8v_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://c17bf1da-cd2f-4756-9c9b-84208733801d",
+      "type" : "sc:Canvas",
+      "label" : "GRN_9r",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://9165da7b-4677-490f-8390-9d62a17bf66b",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/17_20220519_202205/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/17_20220519_202205",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://c17bf1da-cd2f-4756-9c9b-84208733801d"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_9r_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://614ff496-1384-4cc7-b08f-49a8a8d6232b",
+      "type" : "sc:Canvas",
+      "label" : "GRN_9v",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://398660a2-6681-428e-b0b0-10ba7effcff7",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/18_20220519_20220519_1735/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/18_20220519_20220519_1735",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://614ff496-1384-4cc7-b08f-49a8a8d6232b"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_9v_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://3f9b3dda-f7cc-4f63-ac18-e56d63c5bc4f",
+      "type" : "sc:Canvas",
+      "label" : "GRN_10r",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://de7b3bac-6670-4498-989f-5faec8ce7e19",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/19_20220519_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/19_20220519_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://3f9b3dda-f7cc-4f63-ac18-e56d63c5bc4f"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_10r_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://f9568e5a-abeb-4492-a757-2b3752c87b4d",
+      "type" : "sc:Canvas",
+      "label" : "GRN_10v",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://db0e2a4c-0d23-4ea8-8815-6cc42203bca1",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/20_20220519_20220519_1743/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/20_20220519_20220519_1743",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://f9568e5a-abeb-4492-a757-2b3752c87b4d"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_10v_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://8473d592-33be-4644-80bf-4d3d344ada3f",
+      "type" : "sc:Canvas",
+      "label" : "GRN_11r",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://e3cb26c2-1729-4948-a713-4cc46e7d849b",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/21_20220519_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/21_20220519_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://8473d592-33be-4644-80bf-4d3d344ada3f"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_11r_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://8c07deb5-ce03-4f20-b8ac-2be64bba21c7",
+      "type" : "sc:Canvas",
+      "label" : "GRN_11v",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://b72ac238-757b-4954-88d9-9332ebde5db2",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/22_20220519_202205/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/22_20220519_202205",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://8c07deb5-ce03-4f20-b8ac-2be64bba21c7"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_11v_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://e8e461b3-d3ed-4686-b18e-17f7650eb14c",
+      "type" : "sc:Canvas",
+      "label" : "GRN_12r",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://6bb4ed47-03c3-4bb2-af4c-7ec536bef355",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/23_20220519_20220519_1751/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/23_20220519_20220519_1751",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://e8e461b3-d3ed-4686-b18e-17f7650eb14c"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_12r_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://00933d39-15e5-48ad-a562-c4424de3c9f9",
+      "type" : "sc:Canvas",
+      "label" : "GRN_12v",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://7a7bb363-d7c8-488e-beab-3e2ee63bc4f3",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/24_20220519_202205/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/24_20220519_202205",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://00933d39-15e5-48ad-a562-c4424de3c9f9"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_12v_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://19553c8b-6e34-45e9-b520-71e14ae37711",
+      "type" : "sc:Canvas",
+      "label" : "GRN_13r",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://7bd0d49f-39b8-4f64-b23c-fca8bbe4af3a",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/25_20220519_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/25_20220519_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://19553c8b-6e34-45e9-b520-71e14ae37711"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_13r_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://88014f8f-416c-4b82-b6c2-223dccae8019",
+      "type" : "sc:Canvas",
+      "label" : "GRN_13v",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://7abec446-f81b-4fc7-af7a-02d864ac0342",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/26_20220519_20220519_1756/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/26_20220519_20220519_1756",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://88014f8f-416c-4b82-b6c2-223dccae8019"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_13v_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://75405a18-12e2-4b12-9a4d-faae42c661e2",
+      "type" : "sc:Canvas",
+      "label" : "GRN_14r",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://7f3daca5-d147-4372-9f63-3a7e2fad1b85",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/27_20220519_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/27_20220519_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://75405a18-12e2-4b12-9a4d-faae42c661e2"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_14r_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://465953df-616b-4551-b896-afd0f1ec8755",
+      "type" : "sc:Canvas",
+      "label" : "GRN_14v",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://c6a5061d-2419-4fa0-a1ba-dd9ba7977bc3",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/28_20220519_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/28_20220519_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://465953df-616b-4551-b896-afd0f1ec8755"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_14v_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://19556a5b-470f-449b-8f6e-1abc9da00502",
+      "type" : "sc:Canvas",
+      "label" : "GRN_15r",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://74889b1b-2565-44ec-a698-59b5936fc4f5",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/29_20220519_20220519_1801/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/29_20220519_20220519_1801",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://19556a5b-470f-449b-8f6e-1abc9da00502"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_15r_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://bac825d1-fb38-4335-af0a-cac6263d5a12",
+      "type" : "sc:Canvas",
+      "label" : "GRN_loose sheet n.1r",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://ffc3b02e-dc05-40f8-99a6-bd63cfe64eb4",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/30_20220519_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/30_20220519_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://bac825d1-fb38-4335-af0a-cac6263d5a12"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_ls1r_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://e9e9b3e2-1840-46a8-9350-eb7669b38c0a",
+      "type" : "sc:Canvas",
+      "label" : "GRN_loose sheet n.1v",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://1d6dfe1d-b49c-417c-b917-718283c5453d",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/31_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/31_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://e9e9b3e2-1840-46a8-9350-eb7669b38c0a"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_ls1v_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://62ab5f08-4e29-4fab-a4f3-bd3fb9e8141a",
+      "type" : "sc:Canvas",
+      "label" : "GRN_loose sheet n.2",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://221a5819-fc8e-416d-9061-40deb3a496a8",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/32_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/32_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://62ab5f08-4e29-4fab-a4f3-bd3fb9e8141a"
+      } ],
+      "related" : ""
+    }, {
+      "id" : "http://5d8cba90-192e-4514-b596-860dfa8c48bb",
+      "type" : "sc:Canvas",
+      "label" : "GRN_loose sheet n.3",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://167309b8-688f-4672-ba71-c7acec105e08",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/33_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/33_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://5d8cba90-192e-4514-b596-860dfa8c48bb"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_ls3_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://f978341f-0ea7-4506-96a7-5893692478cd",
+      "type" : "sc:Canvas",
+      "label" : "GRN_loose sheet n.4r",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://4b455f12-99fb-49a3-80a5-85553d4c9b1b",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/34_20220519_202205/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/34_20220519_202205",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://f978341f-0ea7-4506-96a7-5893692478cd"
+      } ],
+      "related" : ""
+    }, {
+      "id" : "http://4c8380da-2447-428e-9c6d-0bd7ec83e3d7",
+      "type" : "sc:Canvas",
+      "label" : "GRN_loose sheet n.4v",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://66223d19-e93d-498a-94ef-f2180573c81c",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/35_20220519_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/35_20220519_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://4c8380da-2447-428e-9c6d-0bd7ec83e3d7"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_ls4v_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://185e1560-98ed-4285-81b9-e521719860cd",
+      "type" : "sc:Canvas",
+      "label" : "GRN_loose sheet n.5r",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://1b9bd895-37db-4147-81f4-1cc55ce205b4",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/42_20220519_202205/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/42_20220519_202205",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://185e1560-98ed-4285-81b9-e521719860cd"
+      } ],
+      "related" : ""
+    }, {
+      "id" : "http://a7f55ec7-f1b3-41c5-a5e1-9a02829ff8bf",
+      "type" : "sc:Canvas",
+      "label" : "GRN_loose sheet n.5v",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://440ee083-5f0a-419a-8475-d115b0df7842",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/36_20220519_202205/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/36_20220519_202205",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://a7f55ec7-f1b3-41c5-a5e1-9a02829ff8bf"
+      } ],
+      "related" : ""
+    }, {
+      "id" : "http://602ffdc4-ea8c-4004-8614-b9edf754cdc1",
+      "type" : "sc:Canvas",
+      "label" : "GRN_loose sheet n.6",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://76ffb033-6301-4121-8964-9bd497f7c8c2",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/37_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/37_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://602ffdc4-ea8c-4004-8614-b9edf754cdc1"
+      } ],
+      "related" : ""
+    }, {
+      "id" : "http://58e4fc25-a2b6-47b9-81ee-71ede4be2747",
+      "type" : "sc:Canvas",
+      "label" : "GRN_loose sheet n.7",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://fb703ef5-cc45-44c1-9212-ea2e97867570",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/38_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/38_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://58e4fc25-a2b6-47b9-81ee-71ede4be2747"
+      } ],
+      "related" : ""
+    }, {
+      "id" : "http://09bd55cd-1ea1-413e-bcdf-1a19a76333b6",
+      "type" : "sc:Canvas",
+      "label" : "GRN_loose sheet n.8",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://ff00d1f7-7109-4f55-b845-3a8bc1c8fda7",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/39_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/39_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://09bd55cd-1ea1-413e-bcdf-1a19a76333b6"
+      } ],
+      "related" : ""
+    }, {
+      "id" : "http://e6b69130-56a3-4dbc-a0bd-6c4dbee9aa6d",
+      "type" : "sc:Canvas",
+      "label" : "GRN_loose sheet n.9",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://54ae6faa-6657-48fa-8a8d-7601cace0a6a",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/40_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/40_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://e6b69130-56a3-4dbc-a0bd-6c4dbee9aa6d"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_ls9_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    }, {
+      "id" : "http://3c507cdf-9869-443b-8550-da4bdfad4aa2",
+      "type" : "sc:Canvas",
+      "label" : "GRN_loose sheet n.10",
+      "height" : 2285,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://4320fe63-1265-43ab-b89b-be99c0d24b6e",
+        "type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "id" : "https://iiif.archivelab.org/iiif/41_20220519/full/full/0/default.jpg",
+          "type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "id" : "https://iiif.archivelab.org/iiif/41_20220519",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2285,
+          "width" : 1800
+        },
+        "on" : "http://3c507cdf-9869-443b-8550-da4bdfad4aa2"
+      } ],
+      "otherContent" : [ {
+        "id" : "https://luisammi.github.io/GrandmaLuisaTufanoRecipeNotebook/annotations/GRN_ls10_ann.json",
+        "type" : "sc:AnnotationList",
+        "label" : "annotations"
+      } ]
+    } ]
+  } ],
+  "structures" : [ {
+    "id" : "http://1d34269c-5452-49df-9183-98e9b4ecdf11",
+    "type" : "sc:Range",
+    "label" : "Index",
+    "canvases" : [ "http://1d34269c-5452-49df-9183-98e9b4ecdf11" ]
+  }, {
+    "id" : "http://cfe47c05-39e4-4610-be00-29c6854c3887",
+    "type" : "sc:Range",
+    "label" : "Babà",
+    "canvases" : [ "http://cfe47c05-39e4-4610-be00-29c6854c3887", "http://dd93bafb-a8a6-41bd-b022-b8db90db2f56" ]
+  }, {
+    "id" : "http://d8f299af-74df-41fe-a5b5-9d9ca08510e5",
+    "type" : "sc:Range",
+    "label" : "Bignole",
+    "canvases" : [ "http://d8f299af-74df-41fe-a5b5-9d9ca08510e5", "http://bc12d4d7-641a-4ab1-a284-530f900edb2d", "http://0f20c9b3-846c-43ea-8ff0-b330040a05e4" ]
+  }, {
+    "id" : "http://c4c4269b-03b5-460e-8746-05d34aea351b",
+    "type" : "sc:Range",
+    "label" : "Crostata alle pere",
+    "canvases" : [ "http://c4c4269b-03b5-460e-8746-05d34aea351b", "http://1849ef13-e128-4340-99bb-48ded1a11d89" ]
+  }, {
+    "id" : "http://ef08bed3-7875-47ba-aec9-9295644a01b7",
+    "type" : "sc:Range",
+    "label" : "Crostata di arance",
+    "canvases" : [ "http://ef08bed3-7875-47ba-aec9-9295644a01b7", "http://fac76306-a77c-4a05-b2ce-63abf512c3c4" ]
+  }, {
+    "id" : "http://2da29d74-75c3-47ce-8fc7-6953ec539f9c",
+    "type" : "sc:Range",
+    "label" : "Pastiera napoletana",
+    "canvases" : [ "http://2da29d74-75c3-47ce-8fc7-6953ec539f9c", "http://39089f2c-f76a-4db2-8f4a-34d01cc44122", "http://d0d49289-8a54-4069-93e2-d1baef157efc", "http://d0969158-c4d4-473b-a40b-e8fd5b24e58e" ]
+  }, {
+    "id" : "http://d0969158-c4d4-473b-a40b-e8fd5b24e58e",
+    "type" : "sc:Range",
+    "label" : "Torta Saint-Honoré",
+    "canvases" : [ "http://d0969158-c4d4-473b-a40b-e8fd5b24e58e", "http://cf67681c-2634-41aa-b76e-f9e9396bd154", "http://e34c3d65-834f-4c44-bae4-24ef487811c6", "http://12a75d2f-e694-4f20-9c3c-5e355a523b6a", "http://c17bf1da-cd2f-4756-9c9b-84208733801d" ]
+  }, {
+    "id" : "http://c17bf1da-cd2f-4756-9c9b-84208733801d",
+    "type" : "sc:Range",
+    "label" : "Cannoli alla siciliana",
+    "canvases" : [ "http://c17bf1da-cd2f-4756-9c9b-84208733801d" ]
+  }, {
+    "id" : "http://614ff496-1384-4cc7-b08f-49a8a8d6232b",
+    "type" : "sc:Range",
+    "label" : "Ricetta della crema gialla",
+    "canvases" : [ "http://614ff496-1384-4cc7-b08f-49a8a8d6232b" ]
+  }, {
+    "id" : "http://3f9b3dda-f7cc-4f63-ac18-e56d63c5bc4f",
+    "type" : "sc:Range",
+    "label" : "Precotti cannelloni",
+    "canvases" : [ "http://3f9b3dda-f7cc-4f63-ac18-e56d63c5bc4f" ]
+  }, {
+    "id" : "http://f9568e5a-abeb-4492-a757-2b3752c87b4d",
+    "type" : "sc:Range",
+    "label" : "Panettone",
+    "canvases" : [ "http://f9568e5a-abeb-4492-a757-2b3752c87b4d", "http://8473d592-33be-4644-80bf-4d3d344ada3f" ]
+  }, {
+    "id" : "http://8c07deb5-ce03-4f20-b8ac-2be64bba21c7",
+    "type" : "sc:Range",
+    "label" : "Moretto",
+    "canvases" : [ "http://8c07deb5-ce03-4f20-b8ac-2be64bba21c7" ]
+  }, {
+    "id" : "http://e8e461b3-d3ed-4686-b18e-17f7650eb14c",
+    "type" : "sc:Range",
+    "label" : "Sciroppo di arance",
+    "canvases" : [ "http://e8e461b3-d3ed-4686-b18e-17f7650eb14c" ]
+  }, {
+    "id" : "http://00933d39-15e5-48ad-a562-c4424de3c9f9",
+    "type" : "sc:Range",
+    "label" : "Torta di mele",
+    "canvases" : [ "http://00933d39-15e5-48ad-a562-c4424de3c9f9", "http://19553c8b-6e34-45e9-b520-71e14ae37711" ]
+  }, {
+    "id" : "http://88014f8f-416c-4b82-b6c2-223dccae8019",
+    "type" : "sc:Range",
+    "label" : "Torta pan di Spagna",
+    "canvases" : [ "http://88014f8f-416c-4b82-b6c2-223dccae8019", "http://75405a18-12e2-4b12-9a4d-faae42c661e2" ]
+  }, {
+    "id" : "http://75405a18-12e2-4b12-9a4d-faae42c661e2",
+    "type" : "sc:Range",
+    "label" : "Crema di cioccolati",
+    "canvases" : [ "http://75405a18-12e2-4b12-9a4d-faae42c661e2", "http://465953df-616b-4551-b896-afd0f1ec8755" ]
+  }, {
+    "id" : "http://19556a5b-470f-449b-8f6e-1abc9da00502",
+    "type" : "sc:Range",
+    "label" : "Sanguinaccio",
+    "canvases" : [ "http://19556a5b-470f-449b-8f6e-1abc9da00502" ]
+  }, {
+    "id" : "http://bac825d1-fb38-4335-af0a-cac6263d5a12",
+    "type" : "sc:Range",
+    "label" : "Ricetta delle zeppole",
+    "canvases" : [ "http://bac825d1-fb38-4335-af0a-cac6263d5a12", "http://e9e9b3e2-1840-46a8-9350-eb7669b38c0a" ]
+  }, {
+    "id" : "http://e9e9b3e2-1840-46a8-9350-eb7669b38c0a",
+    "type" : "sc:Range",
+    "label" : "Crema",
+    "canvases" : [ "http://e9e9b3e2-1840-46a8-9350-eb7669b38c0a" ]
+  }, {
+    "id" : "http://62ab5f08-4e29-4fab-a4f3-bd3fb9e8141a",
+    "type" : "sc:Range",
+    "label" : "Babà 2",
+    "canvases" : [ "http://62ab5f08-4e29-4fab-a4f3-bd3fb9e8141a", "http://5d8cba90-192e-4514-b596-860dfa8c48bb" ]
+  }, {
+    "id" : "http://185e1560-98ed-4285-81b9-e521719860cd",
+    "type" : "sc:Range",
+    "label" : "Panettone 2",
+    "canvases" : [ "http://185e1560-98ed-4285-81b9-e521719860cd", "http://a7f55ec7-f1b3-41c5-a5e1-9a02829ff8bf" ]
+  }, {
+    "id" : "http://602ffdc4-ea8c-4004-8614-b9edf754cdc1",
+    "type" : "sc:Range",
+    "label" : "Pan di Spagna",
+    "canvases" : [ "http://602ffdc4-ea8c-4004-8614-b9edf754cdc1" ]
+  }, {
+    "id" : "http://58e4fc25-a2b6-47b9-81ee-71ede4be2747",
+    "type" : "sc:Range",
+    "label" : "Panettone 3",
+    "canvases" : [ "http://58e4fc25-a2b6-47b9-81ee-71ede4be2747", "http://09bd55cd-1ea1-413e-bcdf-1a19a76333b6" ]
+  }, {
+    "id" : "http://e6b69130-56a3-4dbc-a0bd-6c4dbee9aa6d",
+    "type" : "sc:Range",
+    "label" : "Frolla",
+    "canvases" : [ "http://e6b69130-56a3-4dbc-a0bd-6c4dbee9aa6d" ]
+  }, {
+    "id" : "http://3c507cdf-9869-443b-8550-da4bdfad4aa2",
+    "type" : "sc:Range",
+    "label" : "Lista della spesa",
+    "canvases" : [ "http://3c507cdf-9869-443b-8550-da4bdfad4aa2" ]
+  } ]
+}
